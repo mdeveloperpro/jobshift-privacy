@@ -2,9 +2,9 @@
 
 Last updated: 31.10.2026
 
-Jobshift ("we", "us") is an app that connects students with short-term shifts offered by employers. This policy explains what information we collect, why, and the choices you have. The app is operated by [YOUR FULL NAME / BUSINESS NAME], [CITY, COUNTRY].
+Jobshift ("we", "us") is an app that connects students with short-term shifts offered by employers. This policy explains what information we collect, why, and the choices you have. The app is operated by Bodycalc.
 
-**Contact:** [YOUR EMAIL] | WhatsApp: [YOUR NUMBER WITH COUNTRY CODE]
+**Contact:** bodycalc@help.gmail.com 
 
 ## Who can use Jobshift
 
@@ -75,11 +75,11 @@ You can ask us to:
 - Correct wrong information
 - Delete your account and your personal data
 
-To make a request, email [YOUR EMAIL] or message us on WhatsApp from the app, with the email address on your account. We will respond within [30] days. We may keep limited information where the law requires it, such as payment records.
+To make a request, email bodycalc.help@gmail.com or message us on WhatsApp from the app, with the email address on your account. We will respond within [30] days. We may keep limited information where the law requires it, such as payment records.
 
 ## Account deletion
 
-To delete your account, send a request with the subject "Delete my account" to [YOUR EMAIL], or use "Report a problem" in the app (Profile → Report a problem). We will delete your account and personal data, except records we must keep, within [30] days.
+To delete your account, send a request with the subject "Delete my account" to bodycalc.help@gmail.com, or use "Report a problem" in the app (Profile → Report a problem). We will delete your account and personal data, except records we must keep, within [30] days.
 
 ## Changes to this policy
 
