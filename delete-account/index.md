@@ -23,7 +23,7 @@ We may ask you to confirm that you own the account before we delete it. We will 
 
 ## What is kept, and for how long
 
-- **Records of shifts you worked and payments made to you** (dates, hours, amounts and UPI reference numbers). We keep these for [NUMBER] years for accounting, tax and dispute purposes, as required by law. They are not used for anything else.
+- **Records of shifts you worked and payments made to you** (dates, hours, amounts and UPI reference numbers). We keep these for 2 years for accounting, tax and dispute purposes, as required by law. They are not used for anything else.
 - **Shifts posted by an employer** may stay on record, with the company name removed or anonymised, if students have worked on them and payments are still on record.
 - **Backups** of our database are overwritten within [30] days, so deleted data disappears from them after that period.
 
