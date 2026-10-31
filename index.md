@@ -1,6 +1,6 @@
 # Jobshift Privacy Policy
 
-**Last updated:** [DD Month YYYY]
+Last updated: 31.10.2026
 
 Jobshift ("we", "us") is an app that connects students with short-term shifts offered by employers. This policy explains what information we collect, why, and the choices you have. The app is operated by [YOUR FULL NAME / BUSINESS NAME], [CITY, COUNTRY].
 
