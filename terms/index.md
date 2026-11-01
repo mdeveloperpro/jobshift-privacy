@@ -5,9 +5,10 @@
   <a href="hi/" style="display:inline-block;padding:10px 20px;border-radius:8px;border:2px solid #3f3d8f;color:#3f3d8f;font-weight:bold;text-decoration:none;">हिंदी</a>
 </p>
 
-**Last updated:** [DD Month YYYY]
+**Last updated:** [01.11.2026]
 
-These terms apply to everyone who uses the Jobshift app and website ("Jobshift", "we", "us"), operated by [YOUR FULL NAME / BUSINESS NAME], [CITY, COUNTRY]. By creating an account or using Jobshift you agree to these terms and to our Privacy Policy: [PRIVACY POLICY URL].
+These terms apply to everyone who uses the Jobshift app and website ("Jobshift", "we", "us"), operated by Bodycalc. By creating an account or using Jobshift you agree to these terms and to our Privacy Policy:
+https://muraza6.github.io/jobshift-privacy/.
 
 If you do not agree, please do not use Jobshift.
 
@@ -60,7 +61,7 @@ Jobshift is in an early pilot. Features, availability and fees may change.
 These terms are governed by the laws of India. Courts in [CITY, STATE] have jurisdiction, subject to any rights you have under law to bring a claim elsewhere.
 
 ### 12. Contact and deletion
-Email [YOUR EMAIL] or WhatsApp [NUMBER]. To delete your account, follow the steps on our deletion page: [DELETE ACCOUNT URL].
+Email bodycalc.help@gmail.com or WhatsApp . To delete your account, follow the steps on our deletion page: https://muraza6.github.io/jobshift-privacy/delete-account.
 
 ---
 
