@@ -18,7 +18,6 @@ We may ask you to confirm that you own the account before we delete it. We will 
 - Your name, phone number, city and college (students)
 - Your company name, contact person, phone number and business address (employers)
 - Your student ID photo, or your employer business proof
-- Your UPI ID
 - Reports and messages you sent us
 
 ## What is kept, and for how long
