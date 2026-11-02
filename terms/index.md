@@ -8,7 +8,7 @@
 **Last updated:** [01.11.2026]
 
 These terms apply to everyone who uses the Jobshift app and website ("Jobshift", "we", "us"), operated by Bodycalc. By creating an account or using Jobshift you agree to these terms and to our Privacy Policy:
-https://muraza6.github.io/jobshift-privacy/.
+https://mdeveloperpro.github.io/jobshift-privacy/.
 
 If you do not agree, please do not use Jobshift.
 
@@ -61,7 +61,7 @@ Jobshift is in an early pilot. Features, availability and fees may change.
 These terms are governed by the laws of India. Courts in [CITY, STATE] have jurisdiction, subject to any rights you have under law to bring a claim elsewhere.
 
 ### 12. Contact and deletion
-Email bodycalc.help@gmail.com or WhatsApp . To delete your account, follow the steps on our deletion page: https://muraza6.github.io/jobshift-privacy/delete-account.
+Email bodycalc.help@gmail.com or WhatsApp . To delete your account, follow the steps on our deletion page: https://mdeveloperpro.github.io/jobshift-privacy/delete-account.
 
 ---
 
