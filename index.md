@@ -15,8 +15,7 @@ Jobshift is for adults aged 18 and over. We do not knowingly collect information
 **From students**
 - Name, email address, phone number, city and college
 - A photo of your student ID, used only to verify that you are a student
-- Your UPI ID, so we can pay you for completed shifts
-- Your activity in the app: shifts you apply to, accepted shifts, check-in and check-out times, hours worked, payment status and payment reference (UTR)
+- Your activity in the app: shifts you apply to, accepted shifts, check-in and check-out times, hours worked.
 - Reports or messages you send us through the app
 
 **From employers**
@@ -42,7 +41,7 @@ We do not sell your personal information, and we do not show ads or use advertis
 
 ## What other people can see
 
-- **Employers** can see your name, college and city when you apply to their shift. They see your phone number only after they accept you. They never see your ID photo or UPI ID.
+- **Employers** can see your name, college and city when you apply to their shift. They see your phone number only after they accept you. They never see your ID photo or  ID.
 - **Students** never see other students' information. Students see only an employer's company name on a shift.
 - **We** (the operator) can see all information in the app, because we verify accounts, run payments and handle disputes.
 
@@ -56,13 +55,13 @@ We do not share your information with third parties for their own purposes. Limi
 
 ## Payments
 
-Payments to students are made by us outside the app, using the UPI ID you provide. We keep records of payments (amount, date, reference number) for accounting and dispute handling.
+Jobshift does not collect, hold or make payments. Employers pay workers directly. We do not collect payment details such as UPI IDs.
 
 ## How long we keep your data
 
 - Account and activity data: for as long as your account is active.
-- ID photos and business proofs: until your account is deleted, or [NUMBER] months after your last activity, whichever is earlier.
-- Payment and attendance records: up to [NUMBER] years, where we need them for accounting or legal reasons.
+- ID photos and business proofs: until your account is deleted, or 48 months after your last activity, whichever is earlier.
+- attendance records: up to 2 years, where we need them for accounting or legal reasons.
 
 ## Security
 
@@ -87,4 +86,4 @@ If we change this policy we will update the date above and, for significant chan
 
 ## Complaints
 
-If you have a concern about how we handle your data, contact us first at [YOUR EMAIL]. We will try to resolve it promptly.
+If you have a concern about how we handle your data, contact us first at bodycalc.help@gmail.com. We will try to resolve it promptly.
