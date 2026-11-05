@@ -74,11 +74,11 @@ You can ask us to:
 - Correct wrong information
 - Delete your account and your personal data
 
-To make a request, email bodycalc.help@gmail.com or message us on WhatsApp from the app, with the email address on your account. We will respond within [30] days. We may keep limited information where the law requires it, such as payment records.
+To make a request, email bodycalc.help@gmail.com or message us on WhatsApp from the app, with the email address on your account. We will respond within 30 days. We may keep limited information where the law requires it, such as payment records.
 
 ## Account deletion
 
-To delete your account, send a request with the subject "Delete my account" to bodycalc.help@gmail.com, or use "Report a problem" in the app (Profile → Report a problem). We will delete your account and personal data, except records we must keep, within [30] days.
+To delete your account, send a request with the subject "Delete my account" to bodycalc.help@gmail.com, or use "Report a problem" in the app (Profile → Report a problem). We will delete your account and personal data, except records we must keep, within 30 days.
 
 ## Changes to this policy
 
@@ -87,3 +87,6 @@ If we change this policy we will update the date above and, for significant chan
 ## Complaints
 
 If you have a concern about how we handle your data, contact us first at bodycalc.help@gmail.com. We will try to resolve it promptly.
+
+## Blocking
+Blocking data is stored, and blocked users aren’t notified.
