@@ -128,3 +128,6 @@ You may use a worker's name, college, city and phone number only to run the shif
 
 ### 27. Indemnity
 You agree to cover the costs, losses and claims we suffer because of your breach of these terms, your shifts, or your failure to pay workers, to the extent the law allows.
+
+###28. Trusted badge
+The "Trusted" badge indicates that an employer has met our verification criteria, including 3+ completed shifts with no unresolved complaints. This badge is not a guarantee of employment conditions and may be removed at any time.
